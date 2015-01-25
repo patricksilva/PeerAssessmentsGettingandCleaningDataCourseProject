@@ -29,7 +29,7 @@ https://class.coursera.org/getdata-010/forum/thread?thread_id=206
 https://class.coursera.org/getdata-010/forum/thread?thread_id=49
 
 
-
+## Stops execution if there is no Samsung data inside working directory.
 if(!file.exists(".\\UCI HAR Datasets")){
         stop(paste("run_analysis.R can be run as long as the Samsung data is in
 your working directory:",getwd(),sep=" " ))
