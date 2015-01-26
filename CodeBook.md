@@ -1,5 +1,5 @@
 # Codebook
-1 timedomainsignalsbodyaccelerometermeanx
+1 timedomainsignalsbodyaccelerometermeanx:
 2 timedomainsignalsbodyaccelerometermeany
 3 timedomainsignalsbodyaccelerometermeanz
 4 timedomainsignalsbodyaccelerometerstdx
@@ -78,6 +78,8 @@
 77 frequencydomainsignalsbodygyroscopejerkmagmean
 78 frequencydomainsignalsbodygyroscopejerkmagstd
 79 frequencydomainsignalsbodygyroscopejerkmagmeanfreq
+80 Subject
+81 Activity
 
 
 ## Features names transformations:
