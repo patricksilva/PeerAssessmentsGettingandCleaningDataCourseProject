@@ -1,4 +1,5 @@
 # Codebook
+'''
 1 timedomainsignalsbodyaccelerometermeanx:
 2 timedomainsignalsbodyaccelerometermeany
 3 timedomainsignalsbodyaccelerometermeanz
@@ -80,9 +81,11 @@
 79 frequencydomainsignalsbodygyroscopejerkmagmeanfreq
 80 Subject
 81 Activity
+'''
 
 
 ## Features names transformations:
+'''
 f = frequency domain signals
 t = time domain signals
 Acc = accelerometer
@@ -91,3 +94,4 @@ Body = bodyacceleration
 Gravity = gravityacceleration
 BodyBody = body
 Characters removed = "-" , "(" , ")"
+'''
